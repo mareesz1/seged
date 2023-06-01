@@ -1,0 +1,10 @@
+auto import
+auto rename tag
+DotENV
+EditorConfig for vscode (nem tudom mit csinál)
+path intellisense
+thunder client
+vacode great icons
+vscode pets
+vue volar pack /PRETTIER ÉS ESLINT DISABLE/
+Vue 3 support
