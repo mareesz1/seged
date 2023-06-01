@@ -1,0 +1,7 @@
+/kell composer/
+laravel new *project-name*
+composer installphp artisan serve
+
+php artisan route:list
+php artisan key:generate
+php artisan cache:clear

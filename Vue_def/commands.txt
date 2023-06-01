@@ -1,3 +1,4 @@
 npm init vue@latest
+npm install
 
 ennyi
